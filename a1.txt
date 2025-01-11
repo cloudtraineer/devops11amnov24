@@ -1,1 +1,1 @@
-NEw file from cli
+New file from cli
