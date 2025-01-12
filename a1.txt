@@ -1,1 +1,2 @@
-New file from cli
+New file from cli.
+NEw line
